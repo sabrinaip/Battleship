@@ -2,7 +2,7 @@
 //  SecondViewController.swift
 //  Battleship
 //
-//  Created by Jason Gresh on 9/16/16.
+//  Created by Sabrina Ip on 9/16/16.
 //  Copyright © 2016 C4Q. All rights reserved.
 //
 
